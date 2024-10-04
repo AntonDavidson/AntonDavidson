@@ -1,36 +1,23 @@
-# Hi there, I'm Anton Davidson! 👋
 
-## 👀 About Me
-I'm a passionate Android Developer with over 4 years of professional experience. I specialize in building high-quality, user-friendly Android applications using Java and Kotlin. I have a strong understanding of Android architecture components and modern development practices.
+Here’s a polished version of your profile that highlights your expertise in Java, Kotlin, native Android development, and C++ experience:
 
-## 🌱 I’m Currently Learning
-- Swift and Xcode for iOS development
-- Advanced Kotlin features
-- New Android Jetpack libraries and updates
-
-## 💞️ I’m Looking to Collaborate On
-- Open-source Android projects
-- Innovative mobile app ideas
-- Cross-platform development projects
-
-## 📫 How to Reach Me
-- **Email:** antonvdavidson@gmail.com
-- **LinkedIn:** [Anton Davidson](https://www.linkedin.com/in/anton-davidson-345104177/)
-- **GitHub:** [AntonDavidson](https://github.com/antondavidson)
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-When I'm not coding, you can find me exploring new tech gadgets, hiking in nature, or experimenting with new recipes in the kitchen.
-
----
-
-## 🛠️ Technical Skills
-- **Programming Languages:** Java, Kotlin, JavaScript, Swift (Learning)
-- **Android Development:** Android Studio, Jetpack Compose, Room Database, Retrofit, Hilt, Coroutines, Broadcast Receivers, Intents, Notifications, Animations, MVVM, MVP
-- **Web Development:** WordPress, Wix
-- **Databases:** MongoDB, SQLite
-- **Other Technologies:** Xcode, XML, ConstraintLayout, RecyclerView, JUnit, Espresso
-
----
+#### Hi there, I'm Anton Davidson!
+### About Me
+I am an experienced Android Developer with over four years of expertise in building robust, user-centric applications using Java and Kotlin. With a deep understanding of Android architecture components and a commitment to best practices, I specialize in creating efficient, maintainable, and high-quality code.
+### Areas of Interest
+Open-source Android projects
+Advanced mobile app development techniques
+Cross-platform development, integrating native and C++ code
+### Contact Me
+Email: antonvdavidson@gmail.com
+LinkedIn: Anton Davidson
+GitHub: AntonDavidson
+### Technical Skills
+Programming Languages: Java, Kotlin, C++, JavaScript, Swift (currently learning)
+Android Development: Native Android development, Android Studio, Jetpack Compose, Room Database, Retrofit, Hilt, Coroutines, Broadcast Receivers, Intents, Notifications, Animations, MVVM, MVP
+Cross-Platform Development: Proficient in integrating C++ for cross-platform solutions, utilizing native development to optimize performance
+Web Development: WordPress, Wix
+Databases: MongoDB, SQLite
+Other Technologies: Xcode, XML, ConstraintLayout, RecyclerView, JUnit, Espresso
+### Outside of Work
+When I’m not immersed in code, I enjoy exploring the latest in tech gadgets, hiking, and experimenting with new recipes. I’m continuously seeking opportunities to expand my knowledge and contribute to innovative projects in the mobile development space.
