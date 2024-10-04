@@ -1,7 +1,7 @@
 # Hi there, I'm Anton Davidson! 👋
 
 ## 👀 About Me
-I'm a passionate Android Developer with over 2 years of professional experience. I specialize in building high-quality, user-friendly Android applications using Java and Kotlin. I have a strong understanding of Android architecture components and modern development practices.
+I'm a passionate Android Developer with over 4 years of professional experience. I specialize in building high-quality, user-friendly Android applications using Java and Kotlin. I have a strong understanding of Android architecture components and modern development practices.
 
 ## 🌱 I’m Currently Learning
 - Swift and Xcode for iOS development
