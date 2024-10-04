@@ -1,5 +1,5 @@
 
-Here’s a polished version of your profile that highlights your expertise in Java, Kotlin, native Android development, and C++ experience:
+
 
 #### Hi there, I'm Anton Davidson!
 ### About Me
